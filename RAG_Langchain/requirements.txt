@@ -1,0 +1,10 @@
+python-dotenv 
+langchain
+langchain-openai
+langchain-huggingface
+langchain-community
+openai
+ipykernel
+transformers
+pypdf 
+faiss-cpu
